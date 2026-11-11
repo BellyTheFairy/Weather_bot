@@ -1,0 +1,77 @@
+Uniс_ID	@TG_nick	Motion	API	Date	Time	API_answer
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	14:49:43	NONE
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	14:53:17	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	14:53:24	Waiting for city
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	14:54:03	Waiting for city
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	14:54:21	Waiting for city
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:07:26	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:07:29	Waiting for city
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	15:07:41	Waiting for city
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:08:02	Waiting for city
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:08:14	Waiting for city
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:18:25	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:18:26	Waiting for city
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:20:12	Waiting for city
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:21:23	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:21:25	Waiting for city
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:22:14	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:22:16	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:22:20	Минск: 5.16C, пасмурно
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	15:22:23	Waiting for city
+6431972152	@darriiiana	Get Places	Rule-based	2026-11-09	15:22:27	Минск: Погода отличная! Самое время посетить: 🌳 Городские...
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:22:39	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:22:43	Минск: 🌫️ На улице прохладно! Лучше надеть куртка или пал...
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:24:35	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:24:46	Иркутск: 2.43C, ясно
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	15:24:53	Waiting for city
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:24:54	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:25:12	Новосибирск: 🌫️ На улице прохладно! Лучше надеть куртка или пал...
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:28:59	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:29:01	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:29:06	Минск: 5.17C, пасмурно
+6431972152	@darriiiana	Unknown command	NONE	2026-11-09	15:29:16	text: Новосибирск
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:29:20	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:29:50	Новосибирск: 5.61C, дождь
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:29:57	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:30:05	Новосибирск: 🌫️ На улице прохладно! Лучше надеть куртку или пал...
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	15:30:13	Waiting for city
+6431972152	@darriiiana	Get Places	Rule-based	2026-11-09	15:30:20	Новосибирск: Так как на улице не очень, рекомендую посетить: 🏛️...
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:34:03	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:34:06	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:34:15	Минск: 5.17C, пасмурно
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:39:18	NONE
+6431972152	@darriiiana	Clicked places	NONE	2026-11-09	15:39:20	Waiting for city
+6431972152	@darriiiana	Get Places	Rule-based	2026-11-09	15:39:26	"Минск: Погода отличная! Самое время посетить:
+🌳 Городские..."
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:39:33	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:39:47	Париж: 🌫️ На улице прохладно! Лучше надеть куртку или пал...
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:39:54	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:40:07	Абу-Даби: ☀️ На улице тепло! Можно надеть футболку или легку...
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:48:56	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:48:59	Waiting for city
+6431972152	@darriiiana	Command /start	NONE	2026-11-09	15:50:27	NONE
+6431972152	@darriiiana	Clicked weather	NONE	2026-11-09	15:50:30	Waiting for city
+6431972152	@darriiiana	Get Weather	OpenWeatherMap	2026-11-09	15:50:34	Минск: 5.03C, пасмурно
+6431972152	@darriiiana	Clicked outfit	NONE	2026-11-09	15:50:38	Waiting for city
+6431972152	@darriiiana	Get Outfit	OpenWeatherMap + Rules	2026-11-09	15:50:45	Могилёв: 🌫️ На улице прохладно! Лучше надеть куртку или пал...
+6431972152	@darriiiana	Unknown command	NONE	2026-11-09	15:52:10	text: Как дела
+6431972152	@darriiiana	Unknown command	NONE	2026-11-09	15:52:16	text: Ахахаххаха
+1230324103	Елена	Unknown command	NONE	2026-11-09	15:57:45	text: Привет
+1230324103	Елена	Command /start	NONE	2026-11-09	15:57:51	NONE
+1230324103	Елена	Clicked outfit	NONE	2026-11-09	15:57:59	Waiting for city
+5629563547	@Anasqeee	Command /start	NONE	2026-11-09	16:10:27	NONE
+5629563547	@Anasqeee	Clicked outfit	NONE	2026-11-09	16:10:34	Waiting for city
+5629563547	@Anasqeee	Clicked weather	NONE	2026-11-09	16:11:46	Waiting for city
+5629563547	@Anasqeee	Get Weather	OpenWeatherMap	2026-11-09	16:11:54	могилёв: 6.06C, пасмурно
+5629563547	@Anasqeee	Unknown command	NONE	2026-11-09	16:12:30	text: как дела?
+1001324173	@Ivmaws	Command /start	NONE	2026-11-09	16:12:41	NONE
+1001324173	@Ivmaws	Clicked weather	NONE	2026-11-09	16:12:53	Waiting for city
+1001324173	@Ivmaws	Get Weather	OpenWeatherMap	2026-11-09	16:12:58	Привет: 1.74C, пасмурно
+1001324173	@Ivmaws	Clicked places	NONE	2026-11-09	16:13:04	Waiting for city
+1001324173	@Ivmaws	Get Places	Rule-based	2026-11-09	16:13:08	"Минск: На улице не очень, рекомендую посетить:
+🏛️ Музеи,
+..."
+1001324173	@Ivmaws	Clicked outfit	NONE	2026-11-09	16:13:15	Waiting for city
+1001324173	@Ivmaws	Get Outfit	OpenWeatherMap + Rules	2026-11-09	16:13:18	Минск: 🌫️ На улице прохладно! Лучше надеть куртку или пал...
+6431972152	@darriiiana	Command /start	NONE	2026-11-11	09:43:52	NONE
+6431972152	@darriiiana	Command /start	NONE	2026-11-11	09:48:41	NONE
