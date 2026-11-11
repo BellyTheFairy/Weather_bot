@@ -70,7 +70,7 @@ def get_keyboard():
                 [InlineKeyboardButton(text="🌤️ Какая сегодня погода", callback_data="action_weather")],
                 [InlineKeyboardButton(text="📍 Куда сходить", callback_data="action_places")],
                 [InlineKeyboardButton(text="👕 Как сегодня одеться", callback_data="action_outfit")],
-                [InlineKeyboardButton(text="👕 Курс валют", callback_data="currency")],
+                [InlineKeyboardButton(text="💱 Курс валют", callback_data="currency")],
                 [InlineKeyboardButton(text="📰 Новости дня", callback_data="news")]
             ])
         
